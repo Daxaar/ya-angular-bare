@@ -1,7 +1,7 @@
 {
-  "name": "scratch",
+  "name": "ya-angular-bare",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bare bones Angular 2 project",
   "main": "index.js",
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
